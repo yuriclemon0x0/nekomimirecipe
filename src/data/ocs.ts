@@ -47,7 +47,7 @@ export const ocs: OC[] = [
       veryLight: '#F8F2FC',
       textOnPrimary: '#ffffff',
     },
-    catchphrase: 'あの…よかったら一緒に紅茶を…いかがでしょうか？',
+    catchphrase: 'あの……よかったら一緒に紅茶を、いかがでしょうか……？',
     description: 'フェリーンの女性。くすんだ淡いピンク髪にアメジスト色の瞳、猫耳と尻尾。可憐で礼儀正しく、甘やかされると照れながらも内心とても嬉しいタイプ。',
     foods: [
       {
@@ -56,7 +56,7 @@ export const ocs: OC[] = [
         emoji: '🫖',
         type: 'snack',
         description: '紅茶のお供に欠かせないイギリスの伝統的な焼き菓子。クロテッドクリームとジャムをたっぷりつけて食べるのが好き。',
-        ocComment: 'あつあつのうちにクリームをつけると…ほんとうに幸せな気持ちになります。',
+        ocComment: 'あつあつのうちにクリームをたっぷりつけると……もう、それだけで幸せになれてしまいます',
         recipe: {
           time: '約40分',
           servings: '8個分',
@@ -87,7 +87,7 @@ export const ocs: OC[] = [
         emoji: '🍋',
         type: 'dessert',
         description: 'レモンの香りが爽やかなフランスのパウンドケーキ。白いアイシングと小花の砂糖飾りが可憐で、見た目も含めてお気に入り。',
-        ocComment: '名前の響きも好きなんです。週末に焼いて、ゆっくり食べるのが理想で…',
+        ocComment: '名前の響きも好きで……週末にゆっくり焼いて、大切な人と分けて食べるのが理想なんです',
         recipe: {
           time: '約60分',
           servings: '18cmパウンド型1本分',
@@ -119,7 +119,7 @@ export const ocs: OC[] = [
         emoji: '🍲',
         type: 'food',
         description: '鶏肉ときのこの旨みがたっぷり溶け込んだ、やさしいクリームスープ。寒い日に飲むと心が温まる。',
-        ocComment: 'これを飲むと…誰かに守られているような気持ちになります。',
+        ocComment: 'これを飲むと……なんだか、誰かにそっと守ってもらえているような気持ちになるんです',
         recipe: {
           time: '約35分',
           servings: '2人分',
@@ -153,7 +153,7 @@ export const ocs: OC[] = [
         emoji: '🥪',
         type: 'food',
         description: 'スモークサーモンとクリームチーズをたっぷり挟んだ、上品なサンドイッチ。アフタヌーンティーの定番。細く切って並べるとおしゃれに見える。',
-        ocComment: '細く切ってお皿に並べると、なんだかおしゃれに見えて…すごく好きです。',
+        ocComment: '細く切ってきれいに並べると……なんだかおしゃれで、見ているだけで嬉しくなります',
       },
       {
         id: 'celestia-strawberry-cake',
@@ -161,7 +161,7 @@ export const ocs: OC[] = [
         emoji: '🍓',
         type: 'dessert',
         description: 'ひと口サイズのかわいいいちごケーキ。甘すぎず上品な甘さで、見た目の可憐さも含めてお気に入り。',
-        ocComment: '小さいのに、いちごがたっぷりで…見ると元気が出ます。',
+        ocComment: '小さいのにいちごがたっぷりで……見るだけで、なんだか元気になれます',
       },
       {
         id: 'celestia-darjeeling',
@@ -169,7 +169,7 @@ export const ocs: OC[] = [
         emoji: '🫖',
         type: 'drink',
         description: 'マスカットフレーバーとも呼ばれる、上品な香りの紅茶。透き通る金色のリキュールカラーが美しい。',
-        ocComment: '香りだけで、なんだか優雅な気持ちになれるんです…お気に入りです。',
+        ocComment: '香りだけで……もう、優雅な気持ちになれるんです。とても好きで',
       },
       {
         id: 'celestia-milk-tea',
@@ -177,7 +177,7 @@ export const ocs: OC[] = [
         emoji: '☕',
         type: 'drink',
         description: 'たっぷりのミルクで甘く仕上げた温かいミルクティー。寒い日の必需品。これを飲む時間がとても好き。',
-        ocComment: 'あたたかくて…ほっとします。これを飲む時間が一日の中で一番好きかも…',
+        ocComment: 'あたたかくて……ほっとします。これを飲む時間が、一日の中で一番好きかもしれません',
       },
       {
         id: 'celestia-honey-tea',
@@ -185,7 +185,7 @@ export const ocs: OC[] = [
         emoji: '🍯',
         type: 'drink',
         description: 'はちみつを溶かした温かい紅茶。甘くてやさしい味わいで、少し体調が悪い時にも飲む。',
-        ocComment: '少し体調が悪い時にも、これを飲むとなんだか元気になれます…不思議ですね。',
+        ocComment: '少し体調が悪い時にも……これを飲むと、なんだか元気になれるんです。不思議ですよね',
       },
     ],
   },
@@ -200,7 +200,7 @@ export const ocs: OC[] = [
       veryLight: '#F6F4EE',
       textOnPrimary: '#ffffff',
     },
-    catchphrase: 'あなたが喜ぶものを選ぶのは、私にとって小さな楽しみです。',
+    catchphrase: '貴女が喜ぶものを選ぶのは、私にとって小さな楽しみです。',
     description: 'ヴィクトリア王立美術財団支配人。182cm、薄い金髪にグレーの瞳、白手袋と眼鏡。物腰柔らかな英国紳士。セレスティアに対してだけ、隠さずに甘くなる。',
     foods: [
       {
@@ -209,7 +209,7 @@ export const ocs: OC[] = [
         emoji: '🥘',
         type: 'food',
         description: '赤ワインで煮込んだ、濃厚でコクのあるビーフシチュー。マッシュポテトと合わせて食べる。夜会帰りの静かな食事に似合う一品。',
-        ocComment: '手間をかける価値のある料理というものは、必ず存在します。これはその筆頭です。',
+        ocComment: '手間をかける価値のある料理というものは、必ず存在します。……これは、その筆頭でしょう',
         recipe: {
           time: '約2時間',
           servings: '4人分',
@@ -247,7 +247,7 @@ export const ocs: OC[] = [
         emoji: '🥪',
         type: 'food',
         description: 'ハムとグリュイエールチーズを挟んでベシャメルソースをかけた、フランスのホットサンド。シンプルながら完成度が高い。',
-        ocComment: 'ベシャメルの量と焼き加減に、その人の哲学が出ると思っています。',
+        ocComment: 'ベシャメルの量と焼き加減に、その人の哲学が出るものです。……私のものを、いつか貴女にも',
         recipe: {
           time: '約25分',
           servings: '2人分',
@@ -276,7 +276,7 @@ export const ocs: OC[] = [
         emoji: '🐟',
         type: 'snack',
         description: 'クラッカーやバゲットにクリームチーズとスモークサーモンをのせた、上品な一口サイズのオードブル。',
-        ocComment: 'セレスティア嬢も好みだと知ってから、ことあるごとに用意するようになりました。',
+        ocComment: 'セレスティア嬢がお好みだと知ってから、ことあるごとに用意するようになりましてね。……ご満足いただけているなら、それで十分です',
       },
       {
         id: 'elias-dark-chocolate',
@@ -284,7 +284,7 @@ export const ocs: OC[] = [
         emoji: '🍫',
         type: 'snack',
         description: 'カカオ70%以上の深みのあるビターチョコレート。甘さ控えめで、ブランデーと合わせるのが好み。',
-        ocComment: '甘すぎないものほど、奥深い。食事もそれ以外も、だいたい同じ法則が当てはまります。',
+        ocComment: '甘すぎないものほど、奥深いと私は思っています。……食事も、それ以外も、だいたい同じ法則です',
       },
       {
         id: 'elias-brandy-cake',
@@ -292,7 +292,7 @@ export const ocs: OC[] = [
         emoji: '🎂',
         type: 'dessert',
         description: 'ブランデーが薫る、濃厚でしっとりした大人のケーキ。少量でもずっしりとした満足感がある。',
-        ocComment: '良いブランデーケーキは、時間が経つほど味わいが増す。急ぐことはありません。',
+        ocComment: '良いブランデーケーキは、時間が経つほど味わいが増す。……急ぐことはありませんよ',
       },
       {
         id: 'elias-earl-grey',
@@ -300,7 +300,7 @@ export const ocs: OC[] = [
         emoji: '🫖',
         type: 'drink',
         description: 'ベルガモットの香りが特徴の紅茶。ストレートで飲む。執務室で書類に向かう時の定番の一杯。',
-        ocComment: 'これを一口飲むと、仕事に向かう気持ちが整う気がします。',
+        ocComment: '一口飲むたびに、気持ちが静かに整う。……貴女と一緒に飲む時間は、また別格ですが',
       },
       {
         id: 'elias-black-coffee',
@@ -308,7 +308,7 @@ export const ocs: OC[] = [
         emoji: '☕',
         type: 'drink',
         description: '深煎りのブラックコーヒー。砂糖もミルクも入れない。会議前や深夜の作業のお供。',
-        ocComment: '余計なものを加えないほうが、本質がよく分かります。',
+        ocComment: '余計なものを加えないほうが、本質がよく分かります。……これに限らず、ですが',
       },
       {
         id: 'elias-red-wine',
@@ -316,7 +316,7 @@ export const ocs: OC[] = [
         emoji: '🍷',
         type: 'drink',
         description: 'フルボディの赤ワイン。夕食時や来客があった際に。セレスティアと同席する時は白ワインを選ぶこともある。',
-        ocComment: '良い夜には、良いワインが似合います。…今夜がそうであれば、なお良い。',
+        ocComment: '良い夜には、良いワインが似合います。……今夜がそうであれば、なお良い',
       },
     ],
   },
@@ -331,7 +331,7 @@ export const ocs: OC[] = [
       veryLight: '#EDF4F9',
       textOnPrimary: '#ffffff',
     },
-    catchphrase: '妹に何か御用でしょうか。…僕は始終、ここにいます。',
+    catchphrase: '妹に何か御用でしょうか。……僕は始終、ここにいます。',
     description: 'セレスティアの兄。儀礼局政務官。183cm、くすみピンク髪につり眉。外面は冷静で厳格。他人には辛辣だが、妹のためなら何でもする。除菌スプレー常備。',
     foods: [
       {
@@ -340,7 +340,7 @@ export const ocs: OC[] = [
         emoji: '🍄',
         type: 'food',
         description: '数種のきのこをたっぷり使ったクリームリゾット。シンプルな見た目ながら旨みが凝縮されていて、完成度が高い。',
-        ocComment: 'きちんと作れば、きちんとした味になる。それだけだ。',
+        ocComment: 'きちんと作れば、きちんとした味になる。……それだけのことだ',
         recipe: {
           time: '約40分',
           servings: '2人分',
@@ -376,7 +376,7 @@ export const ocs: OC[] = [
         emoji: '🍵',
         type: 'food',
         description: 'じゃがいもと玉ねぎを中心とした、なめらかな野菜のポタージュ。余分なものを入れない、素材の味を大切にした一品。',
-        ocComment: 'ごちゃごちゃしていないほうがいい。素材がよければ余計なことをしなくていい。',
+        ocComment: '素材がよければ余計なことをしなくていい。……ごちゃごちゃしていないほうが、落ち着く',
         recipe: {
           time: '約30分',
           servings: '2〜3人分',
@@ -406,7 +406,7 @@ export const ocs: OC[] = [
         emoji: '🍗',
         type: 'food',
         description: 'ハーブとニンニクで下味をつけてソテーした鶏肉。シンプルで清潔感のある味わい。セレスティアに作ることもある。',
-        ocComment: 'ハーブの種類と量で随分変わる。そこを手を抜くと台無しだ。',
+        ocComment: 'ハーブの種類と量で随分変わる。そこで手を抜くと台無しだ',
       },
       {
         id: 'leonis-white-fish',
@@ -414,7 +414,7 @@ export const ocs: OC[] = [
         emoji: '🐟',
         type: 'food',
         description: '淡白な白身魚をバターでソテーした、上品で軽やかな料理。レモンを絞るだけでいい。',
-        ocComment: '素材がよければ余計なことをしなくていい。手をかけすぎるのは、信頼していない証拠だ。',
+        ocComment: '素材がよければ余計なことをしなくていい。……手をかけすぎるのは、素材を信頼していない証拠だ',
       },
       {
         id: 'leonis-simple-sandwich',
@@ -422,7 +422,7 @@ export const ocs: OC[] = [
         emoji: '🥪',
         type: 'food',
         description: '丁寧に作った具材を、きれいに整えたサンドイッチ。几帳面な性格が出る、端まできっちり揃えた一品。',
-        ocComment: 'セレスティアが喜ぶなら、何でも作る。それだけだ。',
+        ocComment: 'セレスティアが喜ぶなら、何でも作る。……それだけのことだ',
       },
       {
         id: 'leonis-black-coffee',
@@ -430,7 +430,7 @@ export const ocs: OC[] = [
         emoji: '☕',
         type: 'drink',
         description: '砂糖なし、ミルクなしのブラックコーヒー。書類仕事のお供として1日に何杯も飲む。',
-        ocComment: '甘いものは苦手だ。…セレスティアが勧めてくれる時だけは、少し違うが。',
+        ocComment: '甘いものは苦手だ。……セレスティアが勧めてくれる時だけは、少し、違うが',
       },
       {
         id: 'leonis-mint-tea',
@@ -438,7 +438,7 @@ export const ocs: OC[] = [
         emoji: '🌿',
         type: 'drink',
         description: 'ペパーミントを煮出した、すっきりとしたハーブティー。気持ちを切り替えたい時や食後に飲む。',
-        ocComment: '後味がすっきりしていないといけない。ちゃんと切り替えたいから。',
+        ocComment: '後味がすっきりしていないといけない。気持ちをちゃんと切り替えたいから',
       },
       {
         id: 'leonis-sparkling-water',
@@ -446,7 +446,7 @@ export const ocs: OC[] = [
         emoji: '💧',
         type: 'drink',
         description: 'レモンを絞った強炭酸水。甘い飲み物より、こちらのほうが落ち着く。体調管理も仕事のうち。',
-        ocComment: '体の管理も仕事のうちだ。甘い飲み物を摂る習慣はあまりない。',
+        ocComment: '体の管理も仕事のうちだ。……甘い飲み物の習慣は、あまりない',
       },
     ],
   },
