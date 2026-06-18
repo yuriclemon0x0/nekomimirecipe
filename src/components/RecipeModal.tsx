@@ -28,8 +28,7 @@ export default function RecipeModal({ food, color, ocName, onClose }: Props) {
       onClick={onClose}
     >
       <div
-        className="bg-white rounded-3xl w-full max-w-lg max-h-[85vh] flex flex-col overflow-hidden"
-        style={{ animation: 'pop 0.3s ease both' }}
+        className="bg-white rounded-3xl w-full max-w-lg max-h-[85vh] flex flex-col overflow-hidden animate-pop"
         onClick={e => e.stopPropagation()}
       >
         <div
